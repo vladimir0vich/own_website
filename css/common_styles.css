@@ -159,7 +159,7 @@ body {
   margin: 0 0 10px 10px;
 }
 .my_contacts_soc span {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .second_part a, .my_contacts_soc a:hover span {
   text-decoration: none;
